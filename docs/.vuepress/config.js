@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'main()', 
+    title: 'jonz-tech', 
     description: 'jonz-tech的博客',
     //非常重要，加载js
     base: '/TED/',// 设置站点根路径

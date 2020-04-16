@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: jonz-tech
-actionText: 去看看 →
+heroText: 1.01^365
+actionText: 带你去看浪漫的土耳其 →
 actionLink: /home/
 tagline: 你不一定是最好的，但你可以做得更好
 <!-- features:
