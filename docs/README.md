@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /logo1.webp
 heroText: 1.01^365
 actionText: 带你去看浪漫的土耳其 →
 actionLink: /home/

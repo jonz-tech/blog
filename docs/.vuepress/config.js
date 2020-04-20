@@ -11,17 +11,17 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: '主页', link: '/home/' },
-            { text: 'flutter',
-              items: [
-                { text: 'day0', link: '/flutter/day0.md' },
-                { text: 'day1', link: '/flutter/day1.md' },
-              ] 
-            },
+            { text: 'flutter',link: '/flutter/'},
             { text: 'android', link: '/android/' },
             { text: 'ios', link: '/ios/' },
             { text: 'ted', link: '/ted/' },
         ],
         sidebar: {
+            '/flutter/': [
+                        "day0",
+                        "day1", 
+                         ],
+
             '/android/': [
                         "",
                         "android1", 
@@ -36,6 +36,5 @@ module.exports = {
             				 ],
         },
         sidebarDepth: 2,
-        lastUpdated: 'Last Updated',
     }
 }
